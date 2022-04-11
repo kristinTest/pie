@@ -1,0 +1,1 @@
+final String test = 'this is a test string';
